@@ -1,3 +1,5 @@
 test2
-done test2 Nguyen Hoang Ven 
-test pull when edit on remote
+when edit on remote
+done test2 Nguyen Hoang Ven
+test puull
+
